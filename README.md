@@ -5,7 +5,7 @@
 </head>
 <body>
 
-<h1>Project 5: Circular Deque Implementation</h1>
+<h1>Circular Deque Implementation</h1>
 
 <p>This project includes the design and implementation of a Circular Deque, utilizing two different data structures: a Circular Doubly Linked List (CDLL) and an array. The primary operations of the Deque such as insertion, deletion, and dynamic resizing (grow/shrink) are implemented and analyzed for performance efficiency.</p>
 
